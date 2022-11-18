@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FiChevronDown } from "react-icons/fi";
-import { OptionSelectProps } from "../../hooks/useSelect";
+import { OptionSelectProps } from "../../../hooks/useSelect";
 import { Button, Container, Item, Label, List, Overflow } from "./styles";
 
 interface Props {
